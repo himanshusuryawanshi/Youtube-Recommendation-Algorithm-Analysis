@@ -1,0 +1,1691 @@
+{
+  "nodes": [
+    {
+      "id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "name": "PewDiePie",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 110000000,
+      "pagerank": 0.010335472938690254,
+      "x": 406,
+      "y": 111,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCowMgqWFV83mFHLKo32_O4w",
+      "name": "Mecha Gaikotsu",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 501000,
+      "pagerank": 0.010335472938690254,
+      "x": 443,
+      "y": 312,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "name": "ThePrimeTime",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 958000,
+      "pagerank": 0.010335472938690254,
+      "x": 341,
+      "y": 260,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "name": "Theo - t3\u2024gg",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 487000,
+      "pagerank": 0.010335472938690254,
+      "x": 656,
+      "y": 100,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "name": "Linus Tech Tips",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 16600000,
+      "pagerank": 0.010335472938690254,
+      "x": 151,
+      "y": 287,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC3PkGMe8nu8gqZ2Fw2MKjfg",
+      "name": "EliminatedFries",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 11600,
+      "pagerank": 0.010335472938690254,
+      "x": 625,
+      "y": 232,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCeKLuqGciqZZ5RFYk5CbqXg",
+      "name": "jacknjellify",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 346,
+      "y": 300,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCR-ENZ64WL1vB8KU4YzdmTQ",
+      "name": "Tiffany Alvord",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 460,
+      "y": 454,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCmpzdPuqOTtthKhujdmjZNw",
+      "name": "viral shot",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 507,
+      "y": 306,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "name": "MrBeast",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 452000000,
+      "pagerank": 0.009237345214273263,
+      "x": 205,
+      "y": 155,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCoSITPLt7xI0h9HOp0w_4Hw",
+      "name": "FierceFootball",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 130,
+      "y": 415,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC-MPXbKFJ0bJU4raYIaskqw",
+      "name": "\u0106MA",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 264,
+      "y": 177,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCr1kbyiJzl-x5YYDxhYJuPw",
+      "name": "MoreCaseOh",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 539,
+      "y": 203,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCWBWgCD4oAqT3hUeq40SCUw",
+      "name": "Sambucha",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 628,
+      "y": 450,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCoGIPQ7M4NWai7LRgRhaSOg",
+      "name": "NotYourAverageFlight",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 174,
+      "y": 160,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCzfVmyl18x2TTaWp0d5rBNQ",
+      "name": "MiniminterClips",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 678,
+      "y": 387,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCG5_ENrBMOXHDL1LM6_WzLg",
+      "name": "CashNastyReacts",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 606,
+      "y": 443,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCMqX4p-UKvKn0uqKf6fM7yA",
+      "name": "AdoruTV",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.010218818039300605,
+      "x": 671,
+      "y": 499,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "name": "T-Series",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 307000000,
+      "pagerank": 0.009237345214273263,
+      "x": 593,
+      "y": 362,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCe8Nu0N3t6xLN4PeGsEQiwg",
+      "name": "Film Making Director",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.01035902844287594,
+      "x": 448,
+      "y": 378,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC2qRBlZ9Zl0uN6RBuUjRHzA",
+      "name": "Veera Dhanush Vip",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.01035902844287594,
+      "x": 596,
+      "y": 487,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC-nADL5dDxlYMvTtwXxslug",
+      "name": "Lunjhut vlogs",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.01035902844287594,
+      "x": 424,
+      "y": 489,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCu7idQxTwJW4qLGKNPK9k3Q",
+      "name": "Meyya\u2019s Cuts",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.01035902844287594,
+      "x": 695,
+      "y": 222,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCSpQw0CgZQbxMYjMmlcBa-A",
+      "name": "AGNI",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.01035902844287594,
+      "x": 517,
+      "y": 493,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCZyhUQT_eLBlCrRCnjqNkBA",
+      "name": "Two Brothers Guru An",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.01035902844287594,
+      "x": 627,
+      "y": 172,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCokiCJECYa8cbij989A9JPQ",
+      "name": "PlayXunit",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.01035902844287594,
+      "x": 269,
+      "y": 184,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCsooa4yRKGN_zEE8iknghZA",
+      "name": "TED-Ed",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 22200000,
+      "pagerank": 0.009237345214273263,
+      "x": 340,
+      "y": 263,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCS5vAAlG2d9S55cJJAp2UqQ",
+      "name": "Noted.",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.011200290864327948,
+      "x": 659,
+      "y": 442,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCwIT07ktyFZPiMk0cCj4uSw",
+      "name": "Cognitive Insights",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.011200290864327948,
+      "x": 416,
+      "y": 386,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCA0niTxGQKBnWj1DkPqUTCw",
+      "name": "TEDEY",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.011200290864327948,
+      "x": 608,
+      "y": 306,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCEB-AUq2QMmYbacOxNeZlEg",
+      "name": "LANI LOVE",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.011200290864327948,
+      "x": 272,
+      "y": 408,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCHJuQZuzapBh-CuhRYxIZrg",
+      "name": "Insider",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 695,
+      "y": 320,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC68zG933W7D9V9H9TLXBPZQ",
+      "name": "Ryan HD",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 538,
+      "y": 274,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCQZi2YXSxc6BSK4mZHql8ag",
+      "name": "SportsNation",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 105,
+      "y": 102,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCx-KWLTKlB83hDI6UKECtJQ",
+      "name": "HBO Max",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 545,
+      "y": 423,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCdp6GUwjKscp5ST4M4WgIpw",
+      "name": "TechWiser",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 580,
+      "y": 250,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCnC8SAZzQiBGYVSKZ_S3y4Q",
+      "name": "Nikhil Kamath",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 299,
+      "y": 281,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCu6pRQowTCoaQgLzoOkMyzQ",
+      "name": "Balancing Laura",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 414,
+      "y": 422,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCc_ycus0q7DSd85ZkmEY5ig",
+      "name": "Waveform Clips",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 291,
+      "y": 289,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCM5INrKYCBLSN8xg3mmiedQ",
+      "name": "ComiCrops",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 566,
+      "y": 216,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCweDxCT5Fiykk3uHqPKqLWg",
+      "name": "Animist",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 570,
+      "y": 479,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC6Sy-ebAyeLjnIVH8j78Y4A",
+      "name": "A Snack on Titan",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 649,
+      "y": 476,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCybb76KI8PeWqz_NNI6d8UA",
+      "name": "King2069",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 687,
+      "y": 270,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCoysjhcmkoB8CIAoqHwY--A",
+      "name": "Just the Best Parts",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 322,
+      "y": 425,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "name": "Zack D. Films",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 429,
+      "y": 318,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCa3APp_Zx0Vry2ZNvEwyWdA",
+      "name": "FrozenFresh",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 308,
+      "y": 218,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCecJrvrydEIbAmQUTy65Y4w",
+      "name": "Transcode",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 437,
+      "y": 302,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCuVPIqVvmzW0Lp31gEzW_gA",
+      "name": "Log2Base2\u00ae",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 392,
+      "y": 258,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "name": "Bro Code",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.00996943036388459,
+      "x": 225,
+      "y": 300,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC8zOy50mo4UzGISwqMrRJEQ",
+      "name": "Flutter Mapp",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 684,
+      "y": 499,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCWI-ohtRu8eEeDj93hmUsUQ",
+      "name": "Coding with Lewis",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 286,
+      "y": 154,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCXeuH_utA7uQDXuk0lorp3A",
+      "name": "Time to Program",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009786409076481758,
+      "x": 478,
+      "y": 342,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCdUNVXOCR2F8nzpjYGnBn1A",
+      "name": "Programming GuruJi",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 684,
+      "y": 287,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC5mb_OR4V3ryCJPONSQV89A",
+      "name": "Genius World",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 691,
+      "y": 242,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCFrCrc40WJ6QOvVdF5G4tkw",
+      "name": "NS lectures",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 230,
+      "y": 394,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCEnNeIWhkbbYKdCcLWA3tSA",
+      "name": "Excel_24th",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 608,
+      "y": 183,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCTtR7kSgvS9NQZV-ZPk49Vw",
+      "name": "Zack @ InnerDev Solu",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 275,
+      "y": 154,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCREFp3D_n8JfcDonlm7Mpyw",
+      "name": "Programiz",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 529,
+      "y": 479,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCKYAvklUcaL7GUEaItHjidw",
+      "name": "Octabit How To",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 386,
+      "y": 362,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCJyEBMU1xVP2be1-AoGS1BA",
+      "name": "Code.org",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 114,
+      "y": 370,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCM-yUTYGmrNvKOCcAl21g3w",
+      "name": "Jenny's Lectures CS ",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 579,
+      "y": 132,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCzFM89HOEfz1_RYUhM_3Urw",
+      "name": "codingTips",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 143,
+      "y": 404,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCxladMszXan-jfgzyeIMyvw",
+      "name": "Rob Mulla",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 451,
+      "y": 451,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCvmINlrza7JHB1zkIOuXEbw",
+      "name": "Giraffe Academy",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 518,
+      "y": 433,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCnaOvON8gFPWZJMjYWMWkWg",
+      "name": "CloudCODE",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 528,
+      "y": 452,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC9wwroarcwHfOMpucVJG6hA",
+      "name": "Claudia Ruiz",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 415,
+      "y": 410,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC71RmWrU3vV-aYPrR8Wkv_w",
+      "name": "Mage of Metals",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 491,
+      "y": 323,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCZbVcEKBIblBoIvvCSjaHzg",
+      "name": "Casey Lowery",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 634,
+      "y": 128,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCFHR6s3Ov2hiieGEriYEGnA",
+      "name": "Nezuko_X_Kanae Lily ",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 195,
+      "y": 414,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCs7en478brgWbaM859j5gEA",
+      "name": "Grass",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 372,
+      "y": 402,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC_oLLqgtdmM-4-tYNWspEvw",
+      "name": "DavidTheBrownsFan",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 369,
+      "y": 111,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCJ7dNJqWZdzYQN7Z23N1lGQ",
+      "name": "@spiderflow3r",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 651,
+      "y": 445,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCTy8YNge2hCKiSXRkvxIdnA",
+      "name": "\ud83d\ude3bDelilah Tates versi",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 628,
+      "y": 366,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCDprUIlj7A-h_2ZxatPM3Hw",
+      "name": "Someone\ud83d\ude01\ud83d\ude06",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 143,
+      "y": 392,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCYsofLuN2u71UzWoaSL-Exg",
+      "name": "Ferret rabbit",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 491,
+      "y": 192,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC1O1ebMrjJa_0qd_QV-Pn0A",
+      "name": "Spriteworld!",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 477,
+      "y": 225,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCPJC4DQ9RjJ-zBU_xHnHKJA",
+      "name": "Amelia",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 494,
+      "y": 307,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC3REW8raXf4VgfhpapAgfxw",
+      "name": "Navi\u263a\ufe0f",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 240,
+      "y": 430,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCDHYWy2vJXizqCdffH9SvrQ",
+      "name": "Prix",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 245,
+      "y": 294,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCGFKfLXpbFr3IF7SpoAiMGw",
+      "name": "StylesX2",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 378,
+      "y": 285,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCBFz9_IN04cfh37CwAp06iA",
+      "name": "NAESFX",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 408,
+      "y": 175,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCae6p7dVaKfxrWQr5tNn_fA",
+      "name": "Karie Bursell",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 271,
+      "y": 117,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCJfXkmp61Wuz3xnXtlfVkCg",
+      "name": "PixieKawaiiShop",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 192,
+      "y": 255,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCA4UKWVXcWI3F7y13rV-1rw",
+      "name": "MelanieGrace",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 627,
+      "y": 265,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCz7IidpRFneq3aUMN4OTZXA",
+      "name": "That Mortgage Dude",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 314,
+      "y": 425,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCkcYDyY1BHe7-MZA83j6J7g",
+      "name": "Lukas Miguel RS\u2122",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 620,
+      "y": 315,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCqSLujE-CvDEoK2YApNnP-Q",
+      "name": "Wolfie Alpha",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 161,
+      "y": 358,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCZOoNhTBQfFgF70TkB3qVWA",
+      "name": "Star",
+      "topic": "Vlogs",
+      "color": "#10B981",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 386,
+      "y": 319,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCy8-isifPYKNVc3j7DcgtXw",
+      "name": "Golden Herb Secrets",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.009420366501676094,
+      "x": 118,
+      "y": 323,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCFxldZ4M_2gw8GEso0ZUfCw",
+      "name": "Grow with Dani",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 506,
+      "y": 348,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCfJT_eYDTmDE-ovKaxVE1ig",
+      "name": "Kevin Stratvert",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 419,
+      "y": 302,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCNuJJ38qSq8LMiltOZTgzaw",
+      "name": "Sirio",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 397,
+      "y": 217,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCCATX7Vu9dpNFwtCRqnnMew",
+      "name": "RaRe iTech",
+      "topic": "Music",
+      "color": "#F59E0B",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 657,
+      "y": 282,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCVAxBnazCGmc52VRj5yUujw",
+      "name": "yegobox",
+      "topic": "Gaming",
+      "color": "#EF4444",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 417,
+      "y": 157,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCIOZc_ulOvLaqqAWDZf0fYw",
+      "name": "Atrail",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 317,
+      "y": 433,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UChMMFB_sLln4hC4H3XvJ29A",
+      "name": "Nex Gen AI 2.0 - Cha",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 136,
+      "y": 165,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCsQoiOrh7jzKmE8NBofhTnQ",
+      "name": "Varun Mayya",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.010335472938690254,
+      "x": 244,
+      "y": 466,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UC3E8z5P4FemGLQRXixxHL3g",
+      "name": "Gravycatman",
+      "topic": "Education",
+      "color": "#8B5CF6",
+      "subscribers": 0,
+      "pagerank": 0.01216568581271857,
+      "x": 108,
+      "y": 353,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCzNQ7p3KnI1ewnyDHejIoPQ",
+      "name": "Rich Noob",
+      "topic": "Tech",
+      "color": "#3B82F6",
+      "subscribers": 0,
+      "pagerank": 0.01216568581271857,
+      "x": 530,
+      "y": 221,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "id": "UCzrBBv7xvCRFyhSv10vm26A",
+      "name": "Wixor",
+      "topic": "News",
+      "color": "#6B7280",
+      "subscribers": 0,
+      "pagerank": 0.01216568581271857,
+      "x": 129,
+      "y": 371,
+      "vx": 0,
+      "vy": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UCowMgqWFV83mFHLKo32_O4w",
+      "weight": 1
+    },
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "weight": 1
+    },
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UCbRP3c757lWg9M-U7TyEkXA",
+      "weight": 1
+    },
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "weight": 1
+    },
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UC3PkGMe8nu8gqZ2Fw2MKjfg",
+      "weight": 1
+    },
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UCeKLuqGciqZZ5RFYk5CbqXg",
+      "weight": 1
+    },
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UCR-ENZ64WL1vB8KU4YzdmTQ",
+      "weight": 1
+    },
+    {
+      "source": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "target": "UCmpzdPuqOTtthKhujdmjZNw",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UCM5INrKYCBLSN8xg3mmiedQ",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UCweDxCT5Fiykk3uHqPKqLWg",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UC6Sy-ebAyeLjnIVH8j78Y4A",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UCybb76KI8PeWqz_NNI6d8UA",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UCoysjhcmkoB8CIAoqHwY--A",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "weight": 1
+    },
+    {
+      "source": "UCowMgqWFV83mFHLKo32_O4w",
+      "target": "UCa3APp_Zx0Vry2ZNvEwyWdA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCecJrvrydEIbAmQUTy65Y4w",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCuVPIqVvmzW0Lp31gEzW_gA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+      "weight": 4
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC8zOy50mo4UzGISwqMrRJEQ",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCWI-ohtRu8eEeDj93hmUsUQ",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCXeuH_utA7uQDXuk0lorp3A",
+      "weight": 3
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCdUNVXOCR2F8nzpjYGnBn1A",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC5mb_OR4V3ryCJPONSQV89A",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCFrCrc40WJ6QOvVdF5G4tkw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCEnNeIWhkbbYKdCcLWA3tSA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCTtR7kSgvS9NQZV-ZPk49Vw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCREFp3D_n8JfcDonlm7Mpyw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCKYAvklUcaL7GUEaItHjidw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCJyEBMU1xVP2be1-AoGS1BA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCM-yUTYGmrNvKOCcAl21g3w",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCzFM89HOEfz1_RYUhM_3Urw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCxladMszXan-jfgzyeIMyvw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCvmINlrza7JHB1zkIOuXEbw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCnaOvON8gFPWZJMjYWMWkWg",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC9wwroarcwHfOMpucVJG6hA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC71RmWrU3vV-aYPrR8Wkv_w",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCZbVcEKBIblBoIvvCSjaHzg",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCFHR6s3Ov2hiieGEriYEGnA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCs7en478brgWbaM859j5gEA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC_oLLqgtdmM-4-tYNWspEvw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCJ7dNJqWZdzYQN7Z23N1lGQ",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCTy8YNge2hCKiSXRkvxIdnA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCDprUIlj7A-h_2ZxatPM3Hw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCYsofLuN2u71UzWoaSL-Exg",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC1O1ebMrjJa_0qd_QV-Pn0A",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCPJC4DQ9RjJ-zBU_xHnHKJA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UC3REW8raXf4VgfhpapAgfxw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCDHYWy2vJXizqCdffH9SvrQ",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCGFKfLXpbFr3IF7SpoAiMGw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCBFz9_IN04cfh37CwAp06iA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCae6p7dVaKfxrWQr5tNn_fA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCJfXkmp61Wuz3xnXtlfVkCg",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCA4UKWVXcWI3F7y13rV-1rw",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCz7IidpRFneq3aUMN4OTZXA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCkcYDyY1BHe7-MZA83j6J7g",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCqSLujE-CvDEoK2YApNnP-Q",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCZOoNhTBQfFgF70TkB3qVWA",
+      "weight": 1
+    },
+    {
+      "source": "UCUyeluBRhGPCW4rPe_UvBZQ",
+      "target": "UCy8-isifPYKNVc3j7DcgtXw",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UCFxldZ4M_2gw8GEso0ZUfCw",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UCfJT_eYDTmDE-ovKaxVE1ig",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UCNuJJ38qSq8LMiltOZTgzaw",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UCCATX7Vu9dpNFwtCRqnnMew",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UCVAxBnazCGmc52VRj5yUujw",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UCIOZc_ulOvLaqqAWDZf0fYw",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UChMMFB_sLln4hC4H3XvJ29A",
+      "weight": 1
+    },
+    {
+      "source": "UCbRP3c757lWg9M-U7TyEkXA",
+      "target": "UCsQoiOrh7jzKmE8NBofhTnQ",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UCHJuQZuzapBh-CuhRYxIZrg",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UC68zG933W7D9V9H9TLXBPZQ",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UCQZi2YXSxc6BSK4mZHql8ag",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UCx-KWLTKlB83hDI6UKECtJQ",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UCdp6GUwjKscp5ST4M4WgIpw",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UCnC8SAZzQiBGYVSKZ_S3y4Q",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UCu6pRQowTCoaQgLzoOkMyzQ",
+      "weight": 1
+    },
+    {
+      "source": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "target": "UCc_ycus0q7DSd85ZkmEY5ig",
+      "weight": 1
+    },
+    {
+      "source": "UC3PkGMe8nu8gqZ2Fw2MKjfg",
+      "target": "UC3E8z5P4FemGLQRXixxHL3g",
+      "weight": 1
+    },
+    {
+      "source": "UC3PkGMe8nu8gqZ2Fw2MKjfg",
+      "target": "UCzNQ7p3KnI1ewnyDHejIoPQ",
+      "weight": 1
+    },
+    {
+      "source": "UC3PkGMe8nu8gqZ2Fw2MKjfg",
+      "target": "UCzrBBv7xvCRFyhSv10vm26A",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UCoSITPLt7xI0h9HOp0w_4Hw",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UC-MPXbKFJ0bJU4raYIaskqw",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UCr1kbyiJzl-x5YYDxhYJuPw",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UCWBWgCD4oAqT3hUeq40SCUw",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UCoGIPQ7M4NWai7LRgRhaSOg",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UCzfVmyl18x2TTaWp0d5rBNQ",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UCG5_ENrBMOXHDL1LM6_WzLg",
+      "weight": 1
+    },
+    {
+      "source": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "target": "UCMqX4p-UKvKn0uqKf6fM7yA",
+      "weight": 1
+    },
+    {
+      "source": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "target": "UCe8Nu0N3t6xLN4PeGsEQiwg",
+      "weight": 1
+    },
+    {
+      "source": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "target": "UC2qRBlZ9Zl0uN6RBuUjRHzA",
+      "weight": 1
+    },
+    {
+      "source": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "target": "UC-nADL5dDxlYMvTtwXxslug",
+      "weight": 1
+    },
+    {
+      "source": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "target": "UCu7idQxTwJW4qLGKNPK9k3Q",
+      "weight": 1
+    },
+    {
+      "source": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "target": "UCSpQw0CgZQbxMYjMmlcBa-A",
+      "weight": 1
+    },
+    {
+      "source": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "target": "UCZyhUQT_eLBlCrRCnjqNkBA",
+      "weight": 1
+    },
+    {
+      "source": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "target": "UCokiCJECYa8cbij989A9JPQ",
+      "weight": 1
+    },
+    {
+      "source": "UCsooa4yRKGN_zEE8iknghZA",
+      "target": "UCS5vAAlG2d9S55cJJAp2UqQ",
+      "weight": 1
+    },
+    {
+      "source": "UCsooa4yRKGN_zEE8iknghZA",
+      "target": "UCwIT07ktyFZPiMk0cCj4uSw",
+      "weight": 1
+    },
+    {
+      "source": "UCsooa4yRKGN_zEE8iknghZA",
+      "target": "UCA0niTxGQKBnWj1DkPqUTCw",
+      "weight": 1
+    },
+    {
+      "source": "UCsooa4yRKGN_zEE8iknghZA",
+      "target": "UCEB-AUq2QMmYbacOxNeZlEg",
+      "weight": 1
+    }
+  ]
+}
